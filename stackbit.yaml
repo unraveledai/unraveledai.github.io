@@ -265,9 +265,6 @@ models:
       - type: string
         name: meta_twitter_creator
         label: Meta Twitter Creator
-      - type: markdown
-        name: copyright_text
-        label: Copyright Text
   social:
     type: data
     label: Social
